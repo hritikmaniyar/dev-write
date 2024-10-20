@@ -1,6 +1,6 @@
 import java.util.Random;   
 public class RandomNumberExample3  
-{   
+{ 
 public static void main(String args[])   
 {   
 
@@ -40,6 +40,7 @@ boolean n=random.nextBoolean();
 
 System.out.println("Randomly Generated Boolean Values");  
 System.out.println(m);   
+// printing m instead of n
 System.out.println(n);   
 }   
 }
