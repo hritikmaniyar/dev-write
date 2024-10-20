@@ -40,6 +40,6 @@ boolean n=random.nextBoolean();
 
 System.out.println("Randomly Generated Boolean Values");  
 System.out.println(m);   
-System.out.println(m);   
+System.out.println(n);   
 }   
 }
